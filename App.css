@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info_btn {
+  position: absolute;
+  bottom: 40px;
+  right: 40px;
+}
+.bmi_title{
+  margin: 20px 0;
+}
